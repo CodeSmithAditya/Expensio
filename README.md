@@ -1,18 +1,95 @@
-### 💰 [Expensio](https://github.com/CodeSmithAditya/Expensio) *(In Progress)*  
-An intuitive Android app for smart expense tracking and budget management.
+# 💰 Expensio – Smart Expense Tracker
 
-**🔹 Key Features:**
-- 📊 Real-time expense summaries categorized by type
-- 🎯 Monthly budgeting and limit notifications
-- 🧾 Transaction history with date and amount filters
-- ☁️ Firebase integration for real-time sync and authentication
-- 📴 Offline support using local database (Room)
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-Java-blue.svg" />
+  <img src="https://img.shields.io/badge/Platform-Android-green.svg" />
+  <img src="https://img.shields.io/github/last-commit/CodeSmithAditya/Expensio" />
+</p>
 
-**🔧 Tech Stack:**
-- Android Studio (Java/XML)
-- Room Database
-- Material Design Components
-- MVVM Architecture (planned)
+**Expensio** is a modern, lightweight Android application designed to help users **track expenses**, **analyze spending habits**, and **set financial goals** — all from a beautifully intuitive interface.
 
-**🌟 Goal:**  
-To help users understand their spending habits, stay on budget, and build better financial discipline through a clean, easy-to-use interface.
+---
+
+## ✨ Features
+
+- 💸 **Smart Expense Tracking** – Log daily expenses with category tagging and real-time updates
+- 📊 **Budgeting System** – Set monthly spending limits and receive alerts as you approach thresholds
+- 📁 **History & Insights** – View transaction history with filters by date, category, or amount
+- 🔄 **Offline Access** – All data is stored locally and syncs automatically when you're back online
+- 🔐 **Secure Firebase Auth** – Seamless sign-in and backup with Google Authentication (in progress)
+- 🌙 **Dark Mode Support** – Enjoy a consistent experience, day or night
+
+---
+
+## 📸 Screenshots
+
+### 🔹 Home Dashboard and Add Expense Screens
+Here’s a preview of the **Dashboard** and the **Expense Entry** screen (add actual screenshots here):
+
+<p float="left">
+  &nbsp;&nbsp;&nbsp;
+  <img src="screenshots/dashboard.png" width="22%" alt="Dashboard Screen"/>
+  &nbsp;&nbsp;
+  <img src="screenshots/add_expense.png" width="22%" alt="Add Expense Screen"/>
+</p>
+
+---
+
+## 🚀 Tech Stack
+
+| Tech                  | Description                           |
+|-----------------------|---------------------------------------|
+| **Java**              | Primary programming language          |
+| **Android SDK**       | Base framework for Android development|
+| **XML**               | For designing the UI                  |
+| **Room Database**     | Local data storage and management     |
+| **Material Design**   | Clean, modern UI/UX                   |
+| **MVVM Architecture** | Planned for clean separation of logic |
+
+---
+
+## 🧩 Folder Structure
+
+```
+Expensio/
+├── app/
+│   └── src/
+│       └── main/
+│           ├── java/com/example/fileforge/  # Java source code
+│           ├── res/                         # Layouts, drawables, and other UI resources
+│           └── AndroidManifest.xml
+├── build.gradle
+├── .gitignore
+├── README.md
+└── LICENSE
+```
+
+---
+
+## 📥 How to Contribute
+
+1. 🍴 Fork the repository
+2. 🛠️ Make your changes
+3. 🔁 Create a Pull Request
+4. 💬 Let’s review and merge!
+5. 📌 Check [Issues](https://github.com/CodeSmithAditya/Expensio/issues) and contribute!
+6. 🌟 Feature ideas, design tweaks, and optimizations are welcome!
+
+---
+
+## 👤 Author
+
+**Aditya Das**  
+🔗 [LinkedIn](https://www.linkedin.com/in/adadityadas)  
+🐙 [GitHub](https://github.com/CodeSmithAditya)  
+📧 [adadityadas99@gmail.com](mailto:adadityadas99@gmail.com)
+
+---
+
+## 📄 License
+
+This project is protected under a **custom non-commercial license** – see the [LICENSE](LICENSE) file for details.  
+You may view or reference the code for learning purposes only.
+
+> 📌 Redistribution, modification, or publishing is **not allowed** without permission.  
+> For usage rights, contact [adadityadas99@gmail.com](mailto:adadityadas99@gmail.com).
