@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Language-Java-blue.svg" />
   <img src="https://img.shields.io/badge/Platform-Android-green.svg" />
   <img src="https://img.shields.io/github/last-commit/CodeSmithAditya/Expensio" />
+  <img src="https://img.shields.io/badge/license-Custom--Personal--Use-blue" />
 </p>
 
 **Expensio** is a modern, lightweight Android application designed to help users **track expenses**, **analyze spending habits**, and **set financial goals** — all from a beautifully intuitive interface.
