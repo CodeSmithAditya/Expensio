@@ -16,7 +16,6 @@
 - 📊 **Budgeting System** – Set monthly spending limits and receive alerts as you approach thresholds
 - 📁 **History & Insights** – View transaction history with filters by date, category, or amount
 - 🔄 **Offline Access** – All data is stored locally and syncs automatically when you're back online
-- 🔐 **Secure Firebase Auth** – Seamless sign-in and backup with Google Authentication (in progress)
 - 🌙 **Dark Mode Support** – Enjoy a consistent experience, day or night
 
 ---
