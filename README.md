@@ -41,19 +41,39 @@ Coming soon...
 
 ## 🧩 Folder Structure
 
+<details>
+  <summary>📂 Project Structure</summary>
+
 ```
 Expensio/
 ├── app/
 │   └── src/
 │       └── main/
-│           ├── java/com/example/fileforge/  # Java source code
-│           ├── res/                         # Layouts, drawables, and other UI resources
+│           ├── java/com/example/expensio/     # Java source code
+│           │   ├── activities/                 # Activities like MainActivity, AddExpenseActivity
+│           │   ├── adapters/                   # RecyclerView adapters
+│           │   ├── database/                   # Room database, DAOs, and entities
+│           │   ├── models/                     # Data models (e.g., Expense.java)
+│           │   └── utils/                      # Utility classes or constants
+│           ├── res/                            # Layouts, drawables, strings, styles
+│           │   ├── layout/                     # XML layout files
+│           │   ├── drawable/                   # Icons, backgrounds
+│           │   ├── values/                     # colors.xml, strings.xml, styles.xml
+│           │   └── mipmap/                     # Launcher icons
 │           └── AndroidManifest.xml
+├── screenshots/                                # App screenshots for README
+│   ├── dashboard.png
+│   ├── add_expense.png
+│   ├── category_piechart.png
+│   └── budget_alert.png
 ├── build.gradle
 ├── .gitignore
 ├── README.md
 └── LICENSE
 ```
+
+</details>
+
 
 ---
 
