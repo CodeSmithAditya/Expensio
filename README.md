@@ -23,8 +23,7 @@
 
 ## 📸 Screenshots
 
-### 🔹 Home Dashboard and Add Expense Screens
-Here’s a preview of the **Dashboard** and the **Expense Entry** screen (add actual screenshots here):
+Coming soon...
 
 <p float="left">
   &nbsp;&nbsp;&nbsp;
