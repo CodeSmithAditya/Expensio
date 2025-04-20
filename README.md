@@ -25,13 +25,6 @@
 
 Coming soon...
 
-<p float="left">
-  &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/dashboard.png" width="22%" alt="Dashboard Screen"/>
-  &nbsp;&nbsp;
-  <img src="screenshots/add_expense.png" width="22%" alt="Add Expense Screen"/>
-</p>
-
 ---
 
 ## 🚀 Tech Stack
